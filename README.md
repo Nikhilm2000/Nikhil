@@ -39,7 +39,7 @@
 <br />
 <br />
 
-### <p align="center"> Connect with me:
+###  Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Nikhil_M2000#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nikhil_M2000#gh-dark-mode-only)
@@ -52,4 +52,3 @@
 [![website](./img/telegram.svg)](https://t.me/Nikhil_M2000#gh-light-mode-only)
 [![website](./img/telegram_light1.svg)](https://t.me/Nikhil_M2000#gh-dark-mode-only)
 [![website](./img/gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=nikhilcs2000m@gmail.com&tf=cm)
-</p>
