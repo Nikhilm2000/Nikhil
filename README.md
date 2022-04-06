@@ -1,4 +1,4 @@
-# <align="center"> Hi there, I'm Nikhil👋 </align>
+#  Hi there, I'm Nikhil👋 </align>
 
 - 🌱 I’m currently learning Spring Boot,Cloud Computing (GCP)!!
 - ⚡ Trying To Do Better
