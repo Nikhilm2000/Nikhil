@@ -13,7 +13,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ig__nikhilm#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://https://instagram.com/ig__nikhilm#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ig__nikhilm#gh-dark-mode-only)
+[![website](./img/telegram.svg)](https://t.me/Nikhil_M2000#gh-dark-mode-only)
 
 ### Languages and Tools:
 
