@@ -1,9 +1,8 @@
 # Hi there, I'm Nikhil👋 
 
 - 🌱 I’m currently learning Spring Boot,Cloud Computing (GCP)!!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about GCP
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Learn more about GCP,Spring Boot
+- ⚡ Trying To Do Better
 
 ### Connect with me:
 
