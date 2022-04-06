@@ -5,7 +5,7 @@
 
 ###  Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Nikhil_M2000#gh-light-mode-only)
+[![website] width="26px"(./img/twitter-light.svg)](https://twitter.com/Nikhil_M2000#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Nikhil_M2000#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-light-mode-only)
