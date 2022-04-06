@@ -10,8 +10,8 @@ You can find me on [![Twitter][1.2]][1], [![LinkedIn][2.2]][2],[![Telegram][3.2]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3.2]: https://imgur.com/gallery/WMBzbWh (telegram icon without padding)
-[4.2]: https://imgur.com/gallery/EzTJSiM(Gmail icon without padding)
+[3.2]: https://i.imgur.com/DWJroXTb.jpg (telegram icon without padding)
+[4.2]: https://i.imgur.com/VfWnZHM.jpeg (Gmail icon without padding)
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Nikhil_M2000
