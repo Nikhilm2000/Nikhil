@@ -1,8 +1,5 @@
 # Hi there, I'm Nikhil👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Nikhil_M2000)
-
-
 - 🌱 I’m currently learning Spring Boot,Cloud Computing (GCP)!!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about GCP
