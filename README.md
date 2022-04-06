@@ -5,17 +5,17 @@
 
 ###  Connect with me:
 
-[![website] width="26px"(./img/twitter-light.svg)](https://twitter.com/Nikhil_M2000#gh-light-mode-only)
-[![website] width="26px"(./img/twitter-dark.svg)](https://twitter.com/Nikhil_M2000#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Nikhil_M2000#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Nikhil_M2000#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website] width="26px"(./img/linkedin-light.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-light-mode-only)
-[![website] width="26px"(./img/linkedin-dark.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-dark-mode-only)
+[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nikhil-m-07ba321ba#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website] width="26px"(./img/instagram-light.svg)](https://instagram.com/ig__nikhilm#gh-light-mode-only)
-[![website] width="26px"(./img/instagram-dark.svg)](https://instagram.com/ig__nikhilm#gh-dark-mode-only)
-[![website] width="26px"(./img/telegram.svg)](https://t.me/Nikhil_M2000#gh-light-mode-only)
-[![website] width="26px"(./img/telegram_light1.svg)](https://t.me/Nikhil_M2000#gh-dark-mode-only)
-[![website] width="26px"(./img/gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=nikhilcs2000m@gmail.com&tf=cm)
+[![website](./img/instagram-light.svg)](https://instagram.com/ig__nikhilm#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ig__nikhilm#gh-dark-mode-only)
+[![website](./img/telegram.svg)](https://t.me/Nikhil_M2000#gh-light-mode-only)
+[![website](./img/telegram_light1.svg)](https://t.me/Nikhil_M2000#gh-dark-mode-only)
+[![website](./img/gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=nikhilcs2000m@gmail.com&tf=cm)
 
 ### Languages and Tools:
 
