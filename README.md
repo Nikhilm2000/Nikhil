@@ -29,7 +29,6 @@
 
 <br />
 <br />
-<br />
 <summary>:zap: Most Used Languages</summary>
  <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilm2000&layout=compact" />
  <br />
