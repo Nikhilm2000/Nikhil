@@ -27,7 +27,8 @@
 <img align="left" alt="Android Studio" width="26px" src="./img/android.svg"  />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
 
-
+<br />
+<br />
 <br />
 <summary>:zap: Most Used Languages</summary>
  <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilm2000&layout=compact" />
