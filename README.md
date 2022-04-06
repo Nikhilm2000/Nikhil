@@ -15,7 +15,7 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/ig__nikhilm#gh-dark-mode-only)
 [![website](./img/telegram.svg)](https://t.me/Nikhil_M2000#gh-light-mode-only)
 [![website](./img/telegram_light1.svg)](https://t.me/Nikhil_M2000#gh-dark-mode-only)
-[![website](./img/gmail.svg)](nikhilcs2000m@gmail.com)
+[![website](./img/gmail.svg)](https://mail.google.com/mail/u/0/?fs=1&to=nikhilcs2000m@gmail.com&tf=cm)
 
 ### Languages and Tools:
 
