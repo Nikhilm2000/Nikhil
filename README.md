@@ -1,6 +1,6 @@
 #  <p align="center">Hi there, I'm Nikhil👋 </p>
 
-- 🌱 I’m currently learning Spring Boot,Cloud Computing (GCP)!!
+- 🌱 I’m currently learning Spring Boot,Cloud(GCP)!!
 - ⚡ Trying To Do Better
 
 ###  Connect with me:
